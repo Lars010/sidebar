@@ -25,7 +25,7 @@ h2 {
   display: block;
   inline-size: 15.5rem;
   block-size: 100vh;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 0;
   background: var(--white);
   transition: 0.2s ease-in-out;
